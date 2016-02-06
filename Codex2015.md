@@ -4,10 +4,10 @@
 
 - *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
 - *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
-- *If you’re Buster:*
+- *If you’re Argyle:*
      1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
      2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
-     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
+     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2015.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2016.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2017.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2018.md).
      3. Around your birthday every year, write a new yearly report.
 
 
