@@ -1,4 +1,4 @@
-# Codex Vitae v3 (argyle version)
+# Codex Vitae (argyle version)
 
 #### Instructions
 
@@ -175,11 +175,11 @@ How I think things will be in the future, based on the approximate year I think 
 
 ### Yearly reports
 
-32: [Year of Discovery](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2017)
+32: [Year of Discovery](https://medium.com/@argyle) (2017)
 
-31: [Year of Transformation](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2016)
+31: [Year of Transformation](https://medium.com/@argyle) (2016)
 
-30: [Year of Recovery](https://medium.com/p/5e72aa44b857) (2015)
+30: [Year of Recovery](https://medium.com/@argyle) (2015)
 
-29: [Year of Change](http://wayoftheduck.com/37) (2014)
+29: [Year of Change](https://medium.com/@argyle) (2014)
 
