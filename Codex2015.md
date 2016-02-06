@@ -7,7 +7,7 @@
 - *If you’re Argyle:*
      1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
      2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
-     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2015.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2016.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2017.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2018.md).
+     3. At the beginning of every year archive the document. Here's [2015](https://github.com/argyleco/codex-vitae/blob/master/Codex2015.md), [2016](https://github.com/argyleco/codex-vitae/blob/master/Codex2016.md).
      3. Around your birthday every year, write a new yearly report.
 
 
@@ -19,28 +19,6 @@
 - [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
 - [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
 - [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
-
-#### Glossary
- 
-- [What is this?](#what-is-this)
-- [Codex vitae](#codex-vitae)
-- [Quality time](#quality-time)
-- [Systems thinking](#systems-thinking)
-- [Soloverse](#soloverse)
-- [Hume’s fork](#humes-fork)
-- [Optionality](#optionality)
-- [Primes](#primes)
-- [Quantum realism](#quantum-realism)
-
-#### Personal canon
-- [articles](#articles)
-- [books](#books)
-- [my writing](#my-writing)
-
-#### Changelog
-- [history of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-- [monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
-- [yearly reports](#yearly-reports)
 
 ## Beliefs
 
@@ -195,128 +173,13 @@ How I think things will be in the future, based on the approximate year I think 
 #### 4: Predictions: By 2200
 - Humans, computers, and Earth will evolve into at least one super organism or networked brain.
 
-## Glossary
- 
-### What is this?
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. 
-
-How it started: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
-
-### Codex vitae
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
-
-Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae). 
-
-### Quality time
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
-
-Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
-
-### Systems thinking
-I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems (like the water cycle and the carbon cycle) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
-
-Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
-
-### Soloverse
-This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment (or simulation?) that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. You can’t really think about the universe directly (it’s way too big), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting (to me) side effects result from this distinction.
-
-I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
-
-Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt)
-
-### Hume’s fork
-The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us&mdash;we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions. 
-
-See [the entry on Wikipedia](http://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
- 
-### Optionality
-Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered.
-
-We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
-
-Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
-
-### Primes
-We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to biases, to identity, even to quality time (the only way to really enjoy quality time is to be primed for it)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
-
-### Quantum realism
-Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
-
-I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
-
-
-## Personal canon
-
-### Articles 
-Writing I've loved and come back to a bunch of times.
-
-* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
-* [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
-* [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
-* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
-* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
-* [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-* [When We Build](http://vimeo.com/34017777) - Wilson Miner
-* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
-* [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
-* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
-* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
-* [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-* [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
-* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
-* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
-* [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-* [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
-* [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
-
-### Books 
-Each of these books has changed how I see the world.
-
-* [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
-* [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
-* [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
-* [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
-* [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
-* [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
-* [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
-* [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
-Deutsch
-
-### My writing
-Stuff that I've written that means something to me.
-
-* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): free-writing as an alternative to meditation
-* [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): how to build products (and companies) that people love
-* [38 is great](https://medium.com/p/5e72aa44b857): my 5 favorite ideas with my annual review
-* [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
-* [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
-* [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
-* [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
-* [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
-* [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
-
-## Changelog
-[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f)
-
 ### Yearly reports
 
-39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2015)
+32: [Year of Discovery](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2017)
 
-38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) (2014)
+31: [Year of Transformation](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2016)
 
-37: [More kiloslogs](http://wayoftheduck.com/37) (2013)
+30: [Year of Recovery](https://medium.com/p/5e72aa44b857) (2015)
 
-36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) (2012)
+29: [Year of Change](http://wayoftheduck.com/37) (2014)
 
-35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) (2011)
-
-34: [Cultivating the core](http://enjoymentland.com/2010/05/28/turning-34-cultivating-the-core/) (2010)
-
-33: [Frugal to the max](http://enjoymentland.com/2009/05/28/turning-33-frugal-to-the-max/) (2009)
-
-32: [No problem](http://busterbenson.livejournal.com/204717.html) (2008)
-
-31: [Double down](http://busterbenson.livejournal.com/120184.html) (2007)
-
-30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) (2006)
