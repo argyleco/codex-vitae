@@ -84,6 +84,8 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should cultivate quality time with myself, with others, and with my interests.
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
+- I should meditate everyday.
+- I should practice yoga twice to three times a week.
 
 #### 3B: Opinions: Society
 How I believe society should be structured.
