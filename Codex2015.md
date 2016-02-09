@@ -38,62 +38,23 @@ How reality seems to be. 2A is about how my mind and senses seem to work, 2B is 
 #### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
-- Free will is mostly an illusion, but a nice one to keep.
-- Pure altruism is an illusion.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (it’s just easier that way).
-- Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
-- The best way for our brains to model predictions is to create stories.
-- Consciousness is a stream of observer moments. 
-- Each observer moment is a static model of the universe captured in freeze frame, with a frozen picture of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
-- Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
-- Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
-- Playing lots of games (of any kind: video, board, card, other) will make us build more accurate models of the universe than people who don’t.
-- We can change our behavior and habits but it requires a ridiculous amount of energy.
-- Most of the time we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-- We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
-- The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
-- We tend to favor the beautiful, the reaffirming, and the expected.
-- We tend to attribute too much credit to success (and under-credit luck).
+-
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
 
-- We don't have a purpose given to us, but it's okay if we make one up.
-- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
-- Frequently remembering we will die increases the quality of our life.
-- Life is already lost. The only honest way to approach it is from a perspective of gratitude.
-- Souls don't exist as separate from the physical body.
-- The gods of organized religion don't exist.
-- Intention can't create reality (it just primes our perception of it).
-- Astrology is (fun) entertainment, like the Myers Briggs test.
-- Magic and miracles don't exist outside the explanations of science.
-- There is no heaven or hell.
-- We have no cosmic significance.
+
 
 #### 2C Perceptions: Explanatory
 Science, politics, and the universe.
 
-- We probably live in a simulation (see digital realism).
-- Other dimensions and universes exist.
-- Micro and macro evolution happens.
-- Something like the Big Bang happened, and will probably happen again.
-- Something existed before the Big Bang (outside of time and space as we know them).
-- Nothing in our universe can travel faster than light.
-- The human brain (in its current state of evolution) can't comprehend the universe.
-- Non-carbon-based life forms exist.
-- Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
-- Aliens will probably discover our own robots before they discover us.
-- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
-- Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
-- As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
-- Privacy is just a side effect of people not being truly connected.
-- Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
-- Most questions have no answer (but asking them anyway is often entertaining).
-- Logic is a helpful tool, but has flaws and can't be relied on entirely.
-- Acupuncture works, somehow.
-- Vaccinations are good for babies and society.
+- Everything in life is understood in relationship to everything else. I only know who I am in relation to other people.
+- We all share a single consciousness, but through quantum mechanics every person gets to experience life as their own individual self.
+- Defining the self always contains an element of mystery, the unseen - like how a knife can't cut itself, or a light can't illume itself.
+- We evolved as away for the universe to know itself. We evoke light through our eyes and sound through our ears, without these faculities for awareness who would be able to appreciate the beauty of the universe.
+- The rules of the universe are based in pure and beautiful math, fractals, prime numbers, etc.
+- Life and matter is inifinte on macro and micro levels, we appear in the middle because we can never see an ultimate start or end.
+- Life is a dream.
 
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
@@ -127,18 +88,16 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 #### 3B: Opinions: Society
 How I believe society should be structured.
 
-- Gay marriage should be legal everywhere (and now IS in the United States).
+- Gay marriage should be legal everywhere.
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
 - Health care should be available and affordable to everyone who needs it.
-- The death penalty should be used in extreme and certain cases to protect the public.
+- The death penalty should never be used.
 - Prisons should be about protecting the public, not about punishment.
 - Marijuana should be legal to grow, sell, buy, and carry.
-- Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
-- It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
+- Average citizens should not have readily access to guns.
 - Guaranteed basic income should be a thing available to everyone.
 - Free college education should be available to everyone who wants it.
-- Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
