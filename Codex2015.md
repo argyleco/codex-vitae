@@ -209,6 +209,12 @@ Writing I've loved and come back to a bunch of times.
 * [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
 * [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
+### People 
+Each of these people have inspired my thinking and way of life.
+
+* Alan Watts
+* Rabindranath Tagore
+
 ### Books 
 Each of these books has changed how I see the world.
 
